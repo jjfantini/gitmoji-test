@@ -1,0 +1,36 @@
+{
+  "template": "https://github.com/humblFINANCE/cookiecutter-python",
+  "commit": "217b8bf388edc41120cd25a64a80e45628d075bf",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "gitmoji-test",
+      "package_description": "tests the use case of a gitmoji commit rule",
+      "package_url": "https://github.com/jjfantini/gitmoji-test",
+      "author_name": "Jennings Fantini",
+      "author_email": "jjman2811@gmail.com",
+      "github_username": "jjfantini",
+      "python_version": "3.12.1",
+      "docker_image": "python:3.12.1-slim",
+      "development_environment": "strict",
+      "with_conventional_commits": "1",
+      "with_micromamba": "1",
+      "with_fastapi_api": "0",
+      "with_streamlit_app": "0",
+      "with_typer_cli": "0",
+      "with_jupyter_lab": "1",
+      "with_pydantic_typing": "1",
+      "with_pandera_models": "1",
+      "with_sentry_logging": "1",
+      "continuous_integration": "GitHub",
+      "documentation_tool": "sphinx",
+      "docstring_style": "NumPy",
+      "private_package_repository_name": "",
+      "private_package_repository_url": "",
+      "__package_name_kebab_case": "gitmoji-test",
+      "__package_name_snake_case": "gitmoji_test",
+      "_template": "https://github.com/humblFINANCE/cookiecutter-python"
+    }
+  },
+  "directory": null
+}
