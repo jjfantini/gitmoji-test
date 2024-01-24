@@ -8,7 +8,7 @@ on:
       - dev/gitmojify
       - dev/no_cz_customize
 
-permissions:te
+permissions:
   contents: write
 
 jobs:
