@@ -20,9 +20,8 @@ tag_format = "v$version"
 update_changelog_on_bump = true
 annotated_tag = true
 major_version_zero = true
-version_files = [
-    "pyproject.toml:^version",
-]
+bump_message = "🔖 bump(release): v$current_version → v$new_version"
+version_files = ["pyproject.toml:^version"]
 path = ".cz-config.js"
 
 [tool.commitizen.customize]
