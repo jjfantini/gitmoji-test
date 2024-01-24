@@ -6,8 +6,9 @@ on:
       - main
       - master
       - dev/gitmojify
+      - dev/no_cz_customize
 
-permissions:
+permissions:te
   contents: write
 
 jobs:
