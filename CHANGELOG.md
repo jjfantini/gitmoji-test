@@ -1,3 +1,24 @@
+## v0.5.0 (2024-01-25)
+
+### ✨ Features
+
+- **test**: testing CLI bump
+
+### 🐛🚑️ Fixes
+
+- **test**: testing CLI bump
+
+### feat
+
+- **test**: commizen and hook
+- **test**: testing commitizen and gitmojigy pre-commit
+- **test**: testing no customize
+- testing
+
+### fix
+
+- **test**: removed all cz_customize, just cz_gitmoji
+
 ## v0.1.0 (2024-01-24)
 
 ### Added Dependency
