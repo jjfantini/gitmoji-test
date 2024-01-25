@@ -1,3 +1,14 @@
+## v0.3.0 (2024-01-25)
+
+### feat
+
+- testing text input manual
+
+### hotfix
+
+- **test**: testing commitizen and gitmoji hook
+- **test**: adding gitmoji hook
+
 ## v0.2.0 (2024-01-25)
 
 ### ✨ Features
