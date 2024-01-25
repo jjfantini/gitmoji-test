@@ -1,3 +1,13 @@
+## v0.4.0 (2024-01-25)
+
+### feat
+
+- testing lazygit and gitmoji hooks
+
+### hotfix
+
+- gitmoji hook failing
+
 ## v0.3.0 (2024-01-25)
 
 ### feat
