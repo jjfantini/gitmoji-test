@@ -1,3 +1,9 @@
+## v0.9.0 (2024-01-26)
+
+### feat
+
+- testing regular git commit cli
+
 ## v0.8.1 (2024-01-26)
 
 ### 🐛🚑️ Fixes
