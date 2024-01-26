@@ -1,3 +1,9 @@
+## v0.7.0 (2024-01-26)
+
+### feat
+
+- **test**: testing commitizen gitnoji hook
+
 ## v0.6.0 (2024-01-26)
 
 ### feat
