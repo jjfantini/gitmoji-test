@@ -1,3 +1,9 @@
+## v0.6.0 (2024-01-26)
+
+### feat
+
+- testing text input gitmojify
+
 ## v0.5.0 (2024-01-25)
 
 ### ✨ Features
