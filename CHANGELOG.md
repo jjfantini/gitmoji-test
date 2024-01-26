@@ -1,3 +1,9 @@
+## v0.8.0 (2024-01-26)
+
+### feat
+
+- testing lazygit gitmojify
+
 ## v0.7.0 (2024-01-26)
 
 ### feat
