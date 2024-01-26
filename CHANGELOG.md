@@ -1,3 +1,9 @@
+## v0.10.1 (2024-01-26)
+
+### ♻️  Refactorings
+
+- **test**: testing other commits and issue >>> ⏰ 1h
+
 ## v0.10.0 (2024-01-26)
 
 ## v0.4.0 (2024-01-25)
