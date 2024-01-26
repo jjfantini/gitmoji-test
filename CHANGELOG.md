@@ -1,3 +1,9 @@
+## v0.8.1 (2024-01-26)
+
+### 🐛🚑️ Fixes
+
+- **test**: testing cz CLI, emoji included
+
 ## v0.8.0 (2024-01-26)
 
 ### feat
