@@ -1,3 +1,9 @@
+## v0.11.0 (2024-01-31)
+
+### ✨ Features
+
+- **test**: testing commitizen bump with emoji
+
 ## v0.10.1 (2024-01-26)
 
 ### ♻️  Refactorings
