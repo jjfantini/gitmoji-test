@@ -15,7 +15,7 @@ module.exports = {
     },
     types: [
         { value: "✨ feat", name: "A new feature" },
-        { value: "fix", name: "A bug fix" },
+        { value: "🐛 fix", name: "A bug fix" },
         { value: "hotfix", name: "A temporary hotfix" },
         { value: "chore", name: "Other changes that don't modify src or test files" },
         { value: "refactor", name: "A code change that neither fixes a bug nor adds a feature" },
