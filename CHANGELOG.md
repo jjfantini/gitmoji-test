@@ -1,3 +1,9 @@
+## v0.11.2 (2024-01-31)
+
+### 🐛🚑️ Fixes
+
+- **test**: testing commitizen with fix emoji in `.cz-config.js`
+
 ## v0.11.1 (2024-01-31)
 
 ### fix
