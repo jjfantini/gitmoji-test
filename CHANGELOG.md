@@ -1,3 +1,9 @@
+## v0.11.1 (2024-01-31)
+
+### fix
+
+- **test**: testing gitmojify hook
+
 ## v0.11.0 (2024-01-31)
 
 ### ✨ Features
