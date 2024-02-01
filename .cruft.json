@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/humblFINANCE/cookiecutter-python",
-  "commit": "217b8bf388edc41120cd25a64a80e45628d075bf",
+  "commit": "d3f580ed7315f1cb472a354475c0de59de3b4730",
   "checkout": null,
   "context": {
     "cookiecutter": {
