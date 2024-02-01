@@ -1,3 +1,9 @@
+## v0.11.3 (2024-01-31)
+
+### 🐛🚑️ Fixes
+
+- removing emojis from pyproject to test `cruft update`
+
 ## v0.11.2 (2024-01-31)
 
 ### 🐛🚑️ Fixes
