@@ -1,3 +1,9 @@
+## v0.11.5 (2024-02-01)
+
+### ⚡️ Performance
+
+- **test**: testing if `perf` type triggers a PATCH
+
 ## v0.11.4 (2024-02-01)
 
 ## v0.11.3 (2024-01-31)
