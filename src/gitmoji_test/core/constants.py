@@ -1,2 +1,1 @@
-"""A module to contain all project-wide constants."""
-
+"""A module to contain all project-wide constantss."""
