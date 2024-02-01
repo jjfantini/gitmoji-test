@@ -319,13 +319,14 @@ Add additional notes about how to deploy this on a live system.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@jjfantini](https://github.com/jjfantini) - Idea & Initial work
-- [@cookiecutter.github_username](https://github.com/jjfantini) - Additional Contributions
+- [@jjfantini](https://github.com/jjfantini) - Template Maker
+- [@jjfantini](https://github.com/jjfantini) - Initial work
 
 See also the list of [contributors](https://github.com/jjfantini/gitmoji-test/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
+- Thank you to [@mattdl-radix](https://github.com/mattdl-radix) for the original template.
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
