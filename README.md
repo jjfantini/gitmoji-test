@@ -141,6 +141,17 @@ This section shows users how to setup your environment using your `micromamba` f
 <summary><b>Setup Mamba Environment (w/Poetry)</b></summary>
 <p>
 
+### Cruft
+
+This project uses cruft to manage the template and update the project with the latest changes.
+This has one caveat for now. While using commitizen and customizing the commit messages in `pyproject.toml` the `cruft update` command will not work as expected. I think because emojis in the `pyproject.toml` are not read with the correct encoding.
+
+#### Solution
+If you need to perform a cruft update, please just remove the sections with emojis, and run cruft update.
+This will use the insert the emojis defined in the `[tool.commitizen.customize]` from the original template.
+
+I should look to move to just use `czg` or `cz-git` instead of `commitizen` + `cz-customizable` + `cz-conventional-gitmoji`.
+
 This project uses a micromamba environment. The micromamba environment will be automatically setup for you after generating the project from the template using a `post_gen_project` hook. The following steps are for reference only (if you need to recreate the environment). This assumes you use `bash` as your shell.
 
 #### Prerequisites
@@ -319,13 +330,14 @@ Add additional notes about how to deploy this on a live system.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@jjfantini](https://github.com/jjfantini) - Idea & Initial work
-- [@cookiecutter.github_username](https://github.com/jjfantini) - Additional Contributions
+- [@jjfantini](https://github.com/jjfantini) - Template Maker
+- [@jjfantini](https://github.com/jjfantini) - Initial work
 
 See also the list of [contributors](https://github.com/jjfantini/gitmoji-test/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
+- Thank you to [@mattdl-radix](https://github.com/mattdl-radix) for the original template.
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
